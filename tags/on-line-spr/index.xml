@@ -7,13 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://xpan55.github.io/tags/on-line-spr/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>The influence of translation ambiguity on bilinguals&#39; reading in L1</title>
-      <link>https://xpan55.github.io/project/project1/</link>
+      <title>An online Self-Paced Rading (SPR) Task Demo</title>
+      <link>https://xpan55.github.io/project/project3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://xpan55.github.io/project/project1/</guid>
-      <description>This is a project I did with my supervisor Dr. Debra Jared at Western University and the RAs in our lab: Yae Ram Kim, Jia-Wei Shih, and Alexandra Sherwin.
-Backgrounds Translation ambiguity occurs when a word in one language has more than one translation in another language. For example, the English word bark means “dog bark” and “tree bark,” and they translate into distinct French words: aboie and écorce, respectively.</description>
+      <guid>https://xpan55.github.io/project/project3/</guid>
+      <description>Online Self-Paced Reading
+Participants read the sentences in an online moving window SPR task in which they control their own pace of reading by pressing the spacebar. Data were collected on how long (in ms) it takes to read each word in the sentence.
+Click HERE for a demo of the online SPR task in English.
+(The experiment was created with PsychoPy and hosted on Pavlovia.)</description>
     </item>
     
   </channel>
